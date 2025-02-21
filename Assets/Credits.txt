@@ -1,0 +1,6 @@
+﻿Character
+https://www.mixamo.com/#/
+
+
+Third Person/Environment
+https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
